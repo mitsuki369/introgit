@@ -8,3 +8,4 @@ gitの練習
 .git status
 .git diff
 .git commit --amend
+コンフリクト2

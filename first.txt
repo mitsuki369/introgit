@@ -7,4 +7,5 @@ gitの練習
 .git rm
 .git status
 .git diff
-.git commit --amend
+.git commit --amen
+git merge

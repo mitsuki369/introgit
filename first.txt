@@ -10,3 +10,4 @@ gitの練習
 .git commit --amend
 コンフリクト2
 pullreqest
+github_flow

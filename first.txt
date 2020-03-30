@@ -9,3 +9,4 @@ gitの練習
 .git diff
 .git commit --amend
 コンフリクト2
+pullreqest
